@@ -1,2 +1,3 @@
-# 11_DataCollection_Challenge
-Challenge 11 for UC Berkeley Data Analytics Bootcamp. In this assignment, we use Beautiful Soup and other Pandas libraries to collect, analyze, and visualize data
+# Unit 11 Homework: Mission to Mars
+
+The homework instructions and requirements are located in Canvas (or in the 08-Canvas folder for those cohorts not on Canvas).
